@@ -2,3 +2,6 @@ Chapter 1:
 hago un nuevo fichero para realizar cambios 
 en mi carpeta y probar lo aprendido de los comandos
 add y commit 
+ahora vamos a usar el comando git add .
+que guardo todos los cambios directamente sin tener que 
+llaamr a los fichero 
