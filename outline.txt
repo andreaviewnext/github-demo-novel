@@ -1,2 +1,4 @@
 Capitulo 1
     - Esto es una prueba del curso de git udemy, del comando "git add"
+    - se escribe aqui algo nuevo para observar que tambien
+se cambia algo en el directorio de trabajo 
